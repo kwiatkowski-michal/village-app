@@ -1,0 +1,8 @@
+{
+  "name": "villageAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fa8e5b7e"
+}

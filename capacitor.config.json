@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "villageAPP",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
