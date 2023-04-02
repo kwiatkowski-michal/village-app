@@ -26,7 +26,7 @@ import './theme/variables.css';
 
 import StronaGlowna from './pages/StronaGlowna';
 import WywozSmieci from './pages/WywozSmieci';
-import Dokumenty from './pages/Dokumenty';
+import Dokumenty from './pages/Dokumenty-navbar';
 setupIonicReact();
 
 const App: React.FC = () => (

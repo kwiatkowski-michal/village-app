@@ -25,17 +25,16 @@ const Opis: React.FC = () => {
             <IonCardContent>Anetta Steltmann</IonCardContent>
 
             <IonButton fill="clear" href="tel: 123456789">
-            <IonIcon slot="start" icon={call} />Zadzwoń
+            Zadzwoń
             </IonButton>
 
             <IonButton fill="clear" href="mailto:kruszynkrajenski@bialeblota.eu">
-            <IonIcon slot="start" icon={mailOpen} />Wyślij e-mail
+            Wyślij e-mail
             </IonButton>
         </IonCard>
         <IonCard>
             <IonCardHeader>
-            
-                <IonCardTitle><IonIcon slot="start" icon={mailOpen} />Rada sołecka</IonCardTitle>
+                <IonCardTitle>Rada sołecka</IonCardTitle>
             </IonCardHeader>
             <IonCardContent>
                 Marek Łudziński

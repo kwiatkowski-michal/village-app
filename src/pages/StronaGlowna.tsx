@@ -1,5 +1,7 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import ExploreContainer from '../components/Opis';
+import { IonContent, IonHeader, IonItem, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import React from 'react';
+import Opis from '../components/Opis';
+
 import './StronaGlowna.css';
 
 const StronaGlowna: React.FC = () => {
@@ -16,7 +18,7 @@ const StronaGlowna: React.FC = () => {
             <IonTitle size="large">Witaj!</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer />
+        <Opis />
       </IonContent>
     </IonPage>
   );
