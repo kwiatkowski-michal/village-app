@@ -1,0 +1,36 @@
+{
+    "mieszkancy": {
+        "data": "2021",
+        "osoby": "1598"
+    },
+    "powierzchnia": "15,35",
+    "soltys": {
+        "dane": "Anetta Steltmann",
+        "telefon": "tel:123456789",
+        "mail": "mailto:kruszynkrajenski@bialeblota.eu"
+    },
+    "rada_solecka": {
+        "dane": [
+            {
+                "imie_nazwisko": "Marek Łudziński",
+                "stanowisko": "przewodniczący"
+            },
+            {
+                "imie_nazwisko": "Julita Joachimowska",
+                "stanowisko": "sekretarz"
+            },
+            {
+                "imie_nazwisko": "Iwona Maj-Imbirska",
+                "stanowisko": "członek"
+            },
+            {
+                "imie_nazwisko": "Helena Bielska",
+                "stanowisko": "członek"
+            },
+            {
+                "imie_nazwisko": "Wiesława Paluch",
+                "stanowisko": "członek"
+            }
+        ]
+    }
+}
