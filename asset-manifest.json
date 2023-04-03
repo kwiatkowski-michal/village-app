@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/village-app/static/css/main.6b0ad8ef.css",
+    "main.js": "/village-app/static/js/main.b0df47f7.js",
+    "static/js/443.4c3ab9d4.chunk.js": "/village-app/static/js/443.4c3ab9d4.chunk.js",
+    "static/js/738.add24a59.chunk.js": "/village-app/static/js/738.add24a59.chunk.js",
+    "static/js/572.88d82d35.chunk.js": "/village-app/static/js/572.88d82d35.chunk.js",
+    "static/js/372.9205fecd.chunk.js": "/village-app/static/js/372.9205fecd.chunk.js",
+    "static/js/856.eec58301.chunk.js": "/village-app/static/js/856.eec58301.chunk.js",
+    "static/js/344.e1fbc163.chunk.js": "/village-app/static/js/344.e1fbc163.chunk.js",
+    "static/js/841.07faf973.chunk.js": "/village-app/static/js/841.07faf973.chunk.js",
+    "static/js/186.f784bde4.chunk.js": "/village-app/static/js/186.f784bde4.chunk.js",
+    "static/js/862.4d051c46.chunk.js": "/village-app/static/js/862.4d051c46.chunk.js",
+    "static/js/573.1971e6a7.chunk.js": "/village-app/static/js/573.1971e6a7.chunk.js",
+    "static/js/225.6c32c435.chunk.js": "/village-app/static/js/225.6c32c435.chunk.js",
+    "static/js/377.f5ea9132.chunk.js": "/village-app/static/js/377.f5ea9132.chunk.js",
+    "static/js/883.a2a2b6e3.chunk.js": "/village-app/static/js/883.a2a2b6e3.chunk.js",
+    "service-worker.js": "/village-app/service-worker.js",
+    "index.html": "/village-app/index.html",
+    "main.6b0ad8ef.css.map": "/village-app/static/css/main.6b0ad8ef.css.map",
+    "main.b0df47f7.js.map": "/village-app/static/js/main.b0df47f7.js.map",
+    "443.4c3ab9d4.chunk.js.map": "/village-app/static/js/443.4c3ab9d4.chunk.js.map",
+    "738.add24a59.chunk.js.map": "/village-app/static/js/738.add24a59.chunk.js.map",
+    "572.88d82d35.chunk.js.map": "/village-app/static/js/572.88d82d35.chunk.js.map",
+    "372.9205fecd.chunk.js.map": "/village-app/static/js/372.9205fecd.chunk.js.map",
+    "856.eec58301.chunk.js.map": "/village-app/static/js/856.eec58301.chunk.js.map",
+    "344.e1fbc163.chunk.js.map": "/village-app/static/js/344.e1fbc163.chunk.js.map",
+    "841.07faf973.chunk.js.map": "/village-app/static/js/841.07faf973.chunk.js.map",
+    "186.f784bde4.chunk.js.map": "/village-app/static/js/186.f784bde4.chunk.js.map",
+    "862.4d051c46.chunk.js.map": "/village-app/static/js/862.4d051c46.chunk.js.map",
+    "573.1971e6a7.chunk.js.map": "/village-app/static/js/573.1971e6a7.chunk.js.map",
+    "225.6c32c435.chunk.js.map": "/village-app/static/js/225.6c32c435.chunk.js.map",
+    "377.f5ea9132.chunk.js.map": "/village-app/static/js/377.f5ea9132.chunk.js.map",
+    "883.a2a2b6e3.chunk.js.map": "/village-app/static/js/883.a2a2b6e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0ad8ef.css",
+    "static/js/main.b0df47f7.js"
+  ]
+}
