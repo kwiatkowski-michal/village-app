@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/village-app/static/css/main.6b0ad8ef.css",
-    "main.js": "/village-app/static/js/main.735455d9.js",
+    "main.js": "/village-app/static/js/main.92c063ae.js",
     "static/js/443.4c3ab9d4.chunk.js": "/village-app/static/js/443.4c3ab9d4.chunk.js",
     "static/js/738.add24a59.chunk.js": "/village-app/static/js/738.add24a59.chunk.js",
     "static/js/572.88d82d35.chunk.js": "/village-app/static/js/572.88d82d35.chunk.js",
@@ -18,7 +18,7 @@
     "service-worker.js": "/village-app/service-worker.js",
     "index.html": "/village-app/index.html",
     "main.6b0ad8ef.css.map": "/village-app/static/css/main.6b0ad8ef.css.map",
-    "main.735455d9.js.map": "/village-app/static/js/main.735455d9.js.map",
+    "main.92c063ae.js.map": "/village-app/static/js/main.92c063ae.js.map",
     "443.4c3ab9d4.chunk.js.map": "/village-app/static/js/443.4c3ab9d4.chunk.js.map",
     "738.add24a59.chunk.js.map": "/village-app/static/js/738.add24a59.chunk.js.map",
     "572.88d82d35.chunk.js.map": "/village-app/static/js/572.88d82d35.chunk.js.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.6b0ad8ef.css",
-    "static/js/main.735455d9.js"
+    "static/js/main.92c063ae.js"
   ]
 }
