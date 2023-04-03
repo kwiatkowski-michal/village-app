@@ -34,21 +34,30 @@ const App: React.FC = () => (
     <IonReactRouter>
       <IonTabs>
       <IonRouterOutlet>
-          <Redirect exact path="/" to="/home" />
-          <Route path="/home" render={() => <StronaGlowna />} exact={true} />
-          <Route path="/smieci" render={() => <WywozSmieci />} exact={true} />
-          <Route path="/dokumenty" render={() => <Dokumenty />} exact={true} />
+          <Redirect exact path="/" to="/village-app/home" />
+          <Route exact path="/village-app/home">
+            <StronaGlowna />
+          </Route>
+          <Route exact path="/village-app/smeici">
+            <WywozSmieci />
+          </Route>
+          <Route path="/village-app/dokumenty">
+            <Dokumenty />
+          </Route>
+          <Route exact path="/village-app">
+            <Redirect to="/village-app/home" />
+          </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom" translucent={true}>
-          <IonTabButton tab="StronaGlowna" href="/home">
+          <IonTabButton tab="StronaGlowna" href="/village-app/home">
             <IonIcon aria-hidden="true" icon={home} />
             <IonLabel>Strona głowna</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="smieci" href="/smieci">
+          <IonTabButton tab="smieci" href="/village-app/smeici">
             <IonIcon aria-hidden="true" icon={trash} />
             <IonLabel>Wywóz śmieci</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="docs" href="/dokumenty">
+          <IonTabButton tab="docs" href="/village-app/dokumenty">
             <IonIcon aria-hidden="true" icon={document} />
             <IonLabel>Dokumenty</IonLabel>
           </IonTabButton>

@@ -6,7 +6,7 @@
         "content":"Wniosek o przywrócenie wykreślonych z budżetu inwestycji tj. budowy świetlicy wiejskiej czy ścieżki rowerowej na ulicy Gęsiej (w stronę Ciela)",
         "subtitle": "FINANSE GMINY",
         "isButton": "true",
-        "buttonLink": "./assets/docs/2023/wniosek-o-uwzglednienie-nowych-inwestycji.jpeg"
+        "buttonLink": "%PUBLIC_URL%/assets/docs/2023/wniosek-o-uwzglednienie-nowych-inwestycji.jpeg"
     },
     {
         "id": 1,
@@ -23,7 +23,7 @@
         "content": "Zmiany na liniach autobusowych nr 42, 91 i 96 polegające na zmianie godzin i tras. Linia 91 wraca do Ciela, a 96 ma zmienione godzny odjazdów",
         "subtitle": "AUTOBUSY - KOMUNIKACJA MIEJSKA",
         "isButton": "true",
-        "buttonLink": "./assets/docs/2023/pismo-autobusy-2.jpg"
+        "buttonLink": "%PUBLIC_URL%/assets/docs/2023/pismo-autobusy-2.jpg"
     },
     {
         "id": 3,
@@ -32,7 +32,7 @@
         "content": "Wniosek dotyczący ujęcia w budżecie na rok 2023 oraz w WPF na lata 2024-2026 budowy kanalizacji i inwestycji drogowych, takich jak budowa dróg, utwardzenie dróg dojazdowych do pól uprawnych oraz wybudowanie oświetlenia na różnych ulicach",
         "subtitle": "FINANSE GMINY",
         "isButton": "true",
-        "buttonLink": "./assets/docs/2022/wpf-pismo.pdf"
+        "buttonLink": "%PUBLIC_URL%/assets/docs/2022/wpf-pismo.pdf"
     },
     {
         "id": 4,
@@ -41,6 +41,6 @@
         "content": "Wniosek o wykreślenie zadań w celu zwiększenia finansowania dla kluczowych inwestycji na terenie gminy Białe Błota",
         "subtitle": "ŚWIATŁOWÓD",
         "isButton": "true",
-        "buttonLink": "./assets/docs/swiatlowod.pdf"
+        "buttonLink": "%PUBLIC_URL%/assets/docs/swiatlowod.pdf"
     }
 ]
