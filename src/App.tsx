@@ -24,9 +24,9 @@ import '@ionic/react/css/flex-utils.css';
 import '@ionic/react/css/display.css';
 import './theme/variables.css';
 
-import StronaGlowna from './pages/StronaGlowna';
+import StronaGlowna from './pages/MainPage';
 import WywozSmieci from './pages/WywozSmieci';
-import Dokumenty from './pages/Dokumenty-navbar';
+import Dokumenty from './pages/DocMain';
 setupIonicReact();
 
 const App: React.FC = () => (
