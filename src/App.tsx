@@ -33,30 +33,22 @@ const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
       <IonTabs>
-        <IonRouterOutlet>
-          <Route exact path="/StronaGlowna">
-            <StronaGlowna />
-          </Route>
-          <Route exact path="/WywozSmieci">
-            <WywozSmieci />
-          </Route>
-          <Route exact path="/Dokumenty">
-            <Dokumenty />
-          </Route>
-          <Route exact path="/">
-            <Redirect to="/StronaGlowna" />
-          </Route>
+      <IonRouterOutlet>
+          <Redirect exact path="/" to="/home" />
+          <Route path="/home" render={() => <StronaGlowna />} exact={true} />
+          <Route path="/smieci" render={() => <WywozSmieci />} exact={true} />
+          <Route path="/dokumenty" render={() => <Dokumenty />} exact={true} />
         </IonRouterOutlet>
         <IonTabBar slot="bottom" translucent={true}>
-          <IonTabButton tab="StronaGlowna" href="/StronaGlowna">
+          <IonTabButton tab="StronaGlowna" href="/home">
             <IonIcon aria-hidden="true" icon={home} />
             <IonLabel>Strona głowna</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="WywozSmieci" href="/WywozSmieci">
+          <IonTabButton tab="smieci" href="/smieci">
             <IonIcon aria-hidden="true" icon={trash} />
             <IonLabel>Wywóz śmieci</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="Dokumenty" href="/Dokumenty">
+          <IonTabButton tab="docs" href="/dokumenty">
             <IonIcon aria-hidden="true" icon={document} />
             <IonLabel>Dokumenty</IonLabel>
           </IonTabButton>
