@@ -4,12 +4,12 @@
   "private": true,
   "homepage": "https://kwiatkowski-michal.github.io/village-app/",
   "dependencies": {
-    "@capacitor/app": "4.1.1",
-    "@capacitor/core": "4.7.1",
-    "@capacitor/haptics": "4.1.0",
-    "@capacitor/ios": "4.7.1",
-    "@capacitor/keyboard": "4.1.1",
-    "@capacitor/status-bar": "4.1.1",
+    "@capacitor/app": "next",
+    "@capacitor/core": "next",
+    "@capacitor/haptics": "next",
+    "@capacitor/ios": "next",
+    "@capacitor/keyboard": "next",
+    "@capacitor/status-bar": "next",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
     "@testing-library/jest-dom": "^5.11.9",
@@ -67,7 +67,7 @@
     "iOS >=14"
   ],
   "devDependencies": {
-    "@capacitor/cli": "4.7.1",
+    "@capacitor/cli": "next",
     "gh-pages": "^5.0.0"
   },
   "description": "An Ionic project"
